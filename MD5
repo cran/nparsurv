@@ -1,0 +1,8 @@
+90390a003089c1a2bfd0237fb33596db *DESCRIPTION
+094dd1a10b64eabfb4c78f3d940610a1 *NAMESPACE
+14b0717f2e852e7fd4b536d8f335c16f *R/contrastmatrix.R
+b21cac7f407cbb88e174a6b0d1fc3ea6 *R/nparsurv_test.R
+2604a1dd4b78131d636dfd366d6112e4 *R/prepare.R
+171c9ada909abe29d1e2e11c27d7a2f5 *R/print.R
+7b8a7ac58e4b63a16566404e5851df73 *R/teststatistic.R
+14412eeabaf1d1d10d96a5e911956578 *man/nparsurv_test.Rd
